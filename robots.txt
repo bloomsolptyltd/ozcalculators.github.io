@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+sitemap: https://ozcalculators.com/sitemap.xml
