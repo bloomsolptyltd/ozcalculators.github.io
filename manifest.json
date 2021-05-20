@@ -38,7 +38,6 @@
     }
   ],
   "main.js": "render-page.js",
-  "main.js.map": "render-page.js.map",
   "name": "App",
-  "static/avatar.png": "static/avatar-0c3298ef0b784b90b17970dd50752280.png"
+  "static/avatar.png": "static/avatar-44c7b7d0297ea9b8a7da5585e1b6ca63.png"
 }
