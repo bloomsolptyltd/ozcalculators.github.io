@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkozcalculators_website=self.webpackChunkozcalculators_website||[]).push([[306],{1930:function(e,t,u){var n=u(5318);t.__esModule=!0,t.default=void 0;var a=n(u(5354)),l=n(u(7294)),r=function(e){function t(){return e.apply(this,arguments)||this}return(0,a.default)(t,e),t.prototype.render=function(){return l.default.createElement(l.default.Fragment,null)},t}(l.default.Component),o=r;t.default=o}}]);
-//# sourceMappingURL=component---cache-caches-gatsby-plugin-offline-app-shell-js-e4eb6bf85d7ba1c630ef.js.map
